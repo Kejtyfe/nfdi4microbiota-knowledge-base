@@ -8,7 +8,7 @@ docs_css: markdown
 
 ## Introduction
 In order to make data and software more accessible, licenses are an important tool to ensure what can be used for what.
-By default any creator of data, software, writing or any other content involving a sufficient amount of creativity is the copyright owner of that content without having to declare the copyright explicitly.
+By default, any creator of data, software, writing or any other content involving a sufficient amount of creativity is the copyright owner of that content without having to declare the copyright explicitly.
 Defining or using a suitable license for published content usually has the benefit of giving all parties legal certainty and understanding of permission to use.
 
 In sciences, two categories of licenses can applied to either software or data and results that explicitly describe whether and how others can use it.
@@ -45,7 +45,7 @@ There are different versions of CC that consist of the core license with further
 - **Non-derivative (ND):** No derivatives or adaptations of the work are permitted (not compatible with share-alike).
 
 
-![ccsprectrum]({{ '/assets/img/Creative_commons_license_spectrum.svg' | relative_url }})
+![Creative Commons License Spectrum](https://upload.wikimedia.org/wikipedia/commons/e/e1/Creative_commons_license_spectrum.svg)
 
 ([Source](https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg), CC-BY Shaddim; original CC license symbols by Creative Commons)
 
